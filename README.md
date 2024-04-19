@@ -4,12 +4,13 @@
 
 Write a Java program that accomplishes the following tasks:
 
-1. Implement the following options:
+1.     Implement the following options:
 
 Add Books
 Borrow Books
 Return Books
 Exit
+
 2.     For "Add Books":
 
 Prompt the user to enter the book title, author, and quantity.
