@@ -6,9 +6,9 @@ Write a Java program that accomplishes the following tasks:
 
 1.     Implement the following options:
 
-Add Books
-Borrow Books
-Return Books
+Add Books,
+Borrow Books,
+Return Books,
 Exit
 
 2.     For "Add Books":
