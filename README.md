@@ -49,6 +49,5 @@ Remember to use appropriate variable names and follow coding best practices.
 
 4. **Add Books Method** (`private static void addBooks(Scanner scanner)`) - This method handles the process of adding books to the library. It prompts the user to enter the title, author, and quantity of the book. It then adds the book to the library by updating the quantity if the book already exists or adding a new entry if it's a new book.
 
-5. **Load Books From File Method** (`private static void loadBooksFromFile(String fileName)`) - This method is responsible for reading book data from a file and initializing the `books` map with the data. It takes a file name as input, reads each line of the file, splits it into title and quantity, and adds them to the `books` map.
 
 These functions together implement a simple library system where users can add, borrow, and return books. The `books` map serves as a representation of the library's inventory, with book titles as keys and quantities as values.
